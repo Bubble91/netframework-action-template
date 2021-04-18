@@ -1,5 +1,7 @@
 # action.yml
 name: '.NetFramework Action Template'
+- name: .NetFramework Action Template
+  uses: auycro/netframework-action-template@v0.0.2
 description: 'Template for .Net Framework Action'
 author: 'Gumpanat Keardkeawfa <https://github.com/auycro>'
 branding:
